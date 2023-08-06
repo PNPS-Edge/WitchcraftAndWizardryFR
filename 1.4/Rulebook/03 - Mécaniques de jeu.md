@@ -26,7 +26,7 @@ Le maximum pour chacun des caractéristiques est à 2 et à -2.  Il peut y avoir
 **Ame** -  Performance, Inspiration, Courage
 **Relationnel** - Bonus ou malus quand on interagit avec un PJ ou des PNJ récurrents.
 
-### Conditions physique
+### Conditions physiques
 
 Les malus sont tracés dans la fiche de votre personnage et son des modificateur négatif lorsque vous lancez les dés en relation avec la caractéristique du malus. Dans l'idée de garder ce jeu pour moins de 12, les PJ ne meurent jamais vraiment. Ils peuvent recevoir des blessures et toutefois ils peuvent perdre connaissance s'il souffrent de trop de conditions. Peut-être au lien de mourir, les personnages peuvent être grandement affectés par des événements et/ou leurs parents les retirent de l'école ? C'est à votre groupe de décider comment interpréter cette situation. Ce qui convient le mieux à votre groupe.
 
@@ -68,19 +68,46 @@ Modifier a sort de sa banque de sort.
 
 Lancer **+Corps** quand tu essayes de bouger rapidement et/ou silencieusement
 
-10+ : vous vous déplacez rapidement et silencieusement sans être aperçu.
-7-9 : vous vous déplacez rapidement et silencieusement, qui est là ?
+**10+** : vous vous déplacez rapidement et silencieusement sans être aperçu.
+**7-9** : vous vous déplacez rapidement et silencieusement, qui est là ?
 
 **Lutte - Corps**
 
 Lancer **+Corps** quand vous essayez de lutter contre quelqu'un ou quelque chose physiquement
 
-10+ : vous luttez contre quelqu'un ou quelque, qui subit des dégâts, choisissez 2 résultats.
-
-7-9 : Choisissez 1 résultats
+**10+** : vous luttez contre quelqu'un ou quelque, qui subit des dégâts, choisissez 2 résultats.
+**7-9** : Choisissez 1 résultats
 <ul>
-    <li>Esquivez le dommage.
-    <li>Leur voler quelque chose.
-    <li>Les surprendre.
-    <li>Les effrayer.
+    <li>Esquivez le dommage.</li>
+    <li>Leur voler quelque chose.</li>
+    <li>Les surprendre.</li>
+    <li>Les effrayer.</li>
+</ul>
+
+**Encaisser - Corps**
+Lancer **+Corps** quand vous recevez un coup
+
+**10+** : cela était plus dangereux qu'il n'y parassait. Vous esquivez le coup dans problème
+**7-9** (Choisissez 2) cela tape dans votre garde :
+<ul>
+    <li>Prend le malus approprié.</li>
+    <li>Tu es éjecté de ta position, vous mettant encore plus en danger.</li>
+    <li>Vous perdez quelque chose d'important.</li>
+</ul>
+**6-** (Choisissez 1) cela fait vraiment mal :
+<ul>
+    <li>Evanouissement ou fuite.</li>
+    <li>Vous êtes maudit, sévèrement blessé ou profondément affecté. Le MJ choisit.</li>
+    <li>Prendre les 3 options de liste 7-9.</li>
+</ul>
+
+**Convaincre - Cœur**
+
+Lancer **+Cœur** quand vous essayez de vous faire entendre, idem pour de l'intimidation ou une conversation.
+**10+** : Ils vous entendent et vous croient
+**7-9** (choisissez 1)
+<ul>
+    <li>Ils veulent une preuve.</li>
+	<il>Ils vont s'en contenter… pour l'instant</il>
+    <il>Ils vont le faire mais sont maintenant terrifier par vous les soudoyez.</il>
 </ul>

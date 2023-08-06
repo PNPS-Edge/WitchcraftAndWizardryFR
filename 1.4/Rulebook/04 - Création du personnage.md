@@ -107,3 +107,41 @@ La plupart des sorciers et des sorcières considère que pour qu'un individu soi
 | Créatif | 24 | Soutient | 44 | Studieux | 64 |
 | Déterminé | 25 | Observateur | 45 | Traditionnel | 65 |
 | Empathique | 26 | Obsessionnel | 46 | Spirituel | 66 |
+
+### Traits négatifs :
+
+| Trait | 2d6 | Trait | 2d6 | Trait | 2d6 |
+|-------|-----|-------|-----|-------|-----|
+| Abrasif | 11 | Dominant | 31 | Ordinaire | 51 |
+| Agressif | 12 | Rébarbatif | 32 | Passif | 52 |
+| Distant | 13 | Excentrique | 33 | Orgueilleux | 53 |
+| Anxieux | 14 | Crédule | 34 | Pigeon | 54 |
+| Arrogant | 15 | Indécis | 35 | Discret | 55 |
+| Insensible | 16 | Incertain | 36 | Imprudent | 56 |
+| Bête | 21 | Je sais tout | 41 | Mystérieux | 61 |
+| Maladroit | 22 | Feignant | 42 | Bien-pensant | 62 |
+| Docile | 23 | Manipulateur | 43 | Sceptique | 63 |
+| Critique | 24 | Mélancolique | 44 | Mou | 64 |
+| Trompeur | 25 | Naïf | 45 | Distant | 65 |
+| Dédaigneux | 26 | Narcissique | 46 | Strict | 66 |
+
+Notez les traits sur votre feuille dans l'ordre d'importance selon votre personnage. Ce choix sera utilisé pour définir la maison appropriée à Poudlard durant la cérémonie du Choixpeau.
+
+## Etape 2 : Choisissez à quoi votre personnage ressemble. Ici des tableaux  si vous voulez rentre aléatoire le style de votre personnage ou si vous voulez quelques suggestions (Choisissez 1 de chaque, ou plusieurs si vous préférez !)
+
+### Silhouette :
+
+| Trait | 2d6 | Trait | 2d6 | Trait | 2d6 |
+|-------|-----|-------|-----|-------|-----|
+| Androgyne | 11 | Frêle | 31 | Mince | 51 |
+| Anguleux | 12 | Gracieuse | 32 | Petit | 52 |
+| Athlétique | 13 | Chaleureux | 33 | Puant | 53 |
+| Moyen | 14 | Nonchalant | 34 | Longiligne | 54 |
+| Bizarre | 15 | Décharné | 35 | Corpulent | 55 |
+| Gros | 16 | Mince | 36 | Grand | 56 |
+| Osseux | 21 | Souple | 41 | Gigantesque | 61 |
+| Voûté | 22 | Muet /* | 42 | Tremblant | 62 |
+| Sourd /* | 23 | Enfantin | 43 | Faible | 63 |
+| Digne | 24 | Rigide | 44 | Fluet | 64 |
+| Sale | 25 | Marqué | 45 | Filiforme | 65 |
+| Energique | 26 | Chétif | 46 | Tordue | 66 |

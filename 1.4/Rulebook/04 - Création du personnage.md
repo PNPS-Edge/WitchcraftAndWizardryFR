@@ -129,9 +129,9 @@ Notez les traits sur votre feuille dans l'ordre d'importance selon votre personn
 
 ## Etape 2 : Choisissez à quoi votre personnage ressemble. Ici des tableaux  si vous voulez rentre aléatoire le style de votre personnage ou si vous voulez quelques suggestions (Choisissez 1 de chaque, ou plusieurs si vous préférez !)
 
-### Silhouette :
+### Corps :
 
-| Trait | 2d6 | Trait | 2d6 | Trait | 2d6 |
+| Apparence | 2d6 | Apparence | 2d6 | Apparence | 2d6 |
 |-------|-----|-------|-----|-------|-----|
 | Androgyne | 11 | Frêle | 31 | Mince | 51 |
 | Anguleux | 12 | Gracieuse | 32 | Petit | 52 |
@@ -145,3 +145,39 @@ Notez les traits sur votre feuille dans l'ordre d'importance selon votre personn
 | Digne | 24 | Rigide | 44 | Fluet | 64 |
 | Sale | 25 | Marqué | 45 | Filiforme | 65 |
 | Energique | 26 | Chétif | 46 | Tordue | 66 |
+
+*De sorcellerie et de magie peut trouver des solutions créatives à ces caratéristiques. Parlez-en avec le groupe.
+
+### Regard :
+
+| Apparence | 2d6 | Apparence | 2d6 | Apparence | 2d6 |
+|-------|-----|-------|-----|-------|-----|
+| Logique | 11 | Désintéressé | 31 | Grand | 51 |
+| Anxieux | 12 | Distrait | 32 | Espiègle | 52 |
+| Arrogant | 13 | Peureux | 33 | Noble | 53 |
+| Attentif | 14 | Intrépide | 34 | Pénétrant | 54 |
+| Beaux | 15 | Concentré | 35 | Perçant | 55 |
+| Aveugle * | 16 | Coupable | 36 | Profond | 56 |
+| Joyeux | 21 | Hypnotisant | 41 | Timide | 61 |
+| Enjoué | 22 | Indifférent | 42 | Sceptique | 62 |
+| Froid | 23 | Innocent | 43 | Suspicieux | 63 |
+| Curieux | 24 | Intelligeant | 44 | Fatigué | 64 |
+| Noir | 25 | Intense | 45 | Compréhensif | 65 |
+| Digne | 26 | Gentil | 46 | Chaleureux | 66 |
+
+### Visage :
+
+| Apparence | 2d6 | Apparence | 2d6 | Apparence | 2d6 |
+|-------|-----|-------|-----|-------|-----|
+| Logique | 11 | Désintéressé | 31 | Grand | 51 |
+| Anxieux | 12 | Distrait | 32 | Espiègle | 52 |
+| Arrogant | 13 | Peureux | 33 | Noble | 53 |
+| Attentif | 14 | Intrépide | 34 | Pénétrant | 54 |
+| Beaux | 15 | Concentré | 35 | Perçant | 55 |
+| Aveugle * | 16 | Coupable | 36 | Profond | 56 |
+| Joyeux | 21 | Hypnotisant | 41 | Timide | 61 |
+| Enjoué | 22 | Indifférent | 42 | Sceptique | 62 |
+| Froid | 23 | Innocent | 43 | Suspicieux | 63 |
+| Curieux | 24 | Intelligeant | 44 | Fatigué | 64 |
+| Noir | 25 | Intense | 45 | Compréhensif | 65 |
+| Digne | 26 | Gentil | 46 | Chaleureux | 66 |

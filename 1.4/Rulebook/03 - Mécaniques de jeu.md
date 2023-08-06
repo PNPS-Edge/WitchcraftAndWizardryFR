@@ -1,6 +1,6 @@
 # Mécaniques de jeu
 
-### Ce qu'il va vous falloir pour jouer
+## Ce qu'il va vous falloir pour jouer
 
 2 dés à 6 faces (Physique ou virtuel)
 Ce livre de règles.
@@ -9,13 +9,13 @@ La(es) fiches de personnages (physique ou virtuelle)
 Un Maître de Jeu
 Au moins 3 joueurs et au maximum 5 joueurs (cela peut être modifié, mais une certaine expérience du jeu)
 
-### Comment jouer
+## Comment jouer
 
 Dans les jeux basé sur **"Powered by the Apocalypse"** (comme celui là), vous lancez 2 dés à 6 faces (2d6) et ajouté les à vos caractéristiques, ,relations, et/ ou votre banque de sorts pour la réalisation d'actions par lancer de dés. Chaque action est basée sur l'une de vos caractéristiques et va avoir des résultats différents suivant votre résultat aux dés et votre action. La règle principale est que au dessus de 10 l'action est considéré comme un succès, de 7 à 9 comme partiellement réussie and à 6 et au dessous comme un échec. Les joueurs et le MJ détermineront le résultat en fonction des lancers de dés réalisés.
 
 (voir **Actions** pour plus d'exemples de parties réelles)
 
-### Les caractéristiques
+## Les caractéristiques
 
 Le maximum pour chacun des caractéristiques est à 2 et à -2.  Il peut y avoir plusieurs modifications à partir de différents bonus ou malus que l'on peut recevoir de votre **avancée, relationnel, banque de sorts, objets,** et/ou **sous certaines conditions**.
 
@@ -26,7 +26,7 @@ Le maximum pour chacun des caractéristiques est à 2 et à -2.  Il peut y avoir
 **Ame** -  Performance, Inspiration, Courage
 **Relationnel** - Bonus ou malus quand on interagit avec un PJ ou des PNJ récurrents.
 
-### Conditions physiques
+## Conditions physiques
 
 Les malus sont tracés dans la fiche de votre personnage et son des modificateur négatif lorsque vous lancez les dés en relation avec la caractéristique du malus. Dans l'idée de garder ce jeu pour moins de 12, les PJ ne meurent jamais vraiment. Ils peuvent recevoir des blessures et toutefois ils peuvent perdre connaissance s'il souffrent de trop de conditions. Peut-être au lien de mourir, les personnages peuvent être grandement affectés par des événements et/ou leurs parents les retirent de l'école ? C'est à votre groupe de décider comment interpréter cette situation. Ce qui convient le mieux à votre groupe.
 
@@ -38,7 +38,7 @@ Les malus sont tracés dans la fiche de votre personnage et son des modificateur
 
 Quand vous portez les 5 malus, votre personnage s'évanouit et ne peut plus participer jusqu'à ce qu'il soit soigné.
 
-### Conditions de guérison
+## Conditions de guérison
 
 La guérison peut s'effectuer de plusieurs manières mais principalement cela arrive lorsque le personnage n'est pas dans un danger immédiat. Il est possible de le faire, mais il faut considérer cela comme rare. Alors comment procède-t-on ?
 
@@ -50,7 +50,7 @@ Se reposer à l'infirmerie de Poudlard soigne tous les malus, un malus par jour 
 **Epuisé** - En mangeant un carré de chocolat cela aide toujours.
 **Ensorcelé** - Contre sort, contre malédiction, contre sortilège
 
-### Expérience et Echecs
+## Expérience et Echecs
 
 Lorsqu'une action rate, cela donne l'opportunité pour le MJ de faire quelque chose pour chambouler la scène en profondeur ce qui va compliquer la tâche aux joueurs. Heureusement pour les joueurs, cela lors donne également l'opportunité de progresser sur le plan personnel. Tout en évitant les systèmes traditions d'expérience de jeu de rôle plateau, le jeu offre beaucoup d'opportunités d'évolution. Chaque joueur dispose de 5 cases d'expérience à remplir. Une fois qu'elles sont remplies, un joueur peu faire l'une des actions suivantes immédiatement :
 
@@ -60,11 +60,11 @@ Modifier l'avantage de sa maison
 -1 sur un malus et +1 sur un malus (dans la limite du -2/+2)
 Modifier a sort de sa banque de sort.
 
-### Les Actions
+## Les Actions
 
  Ces actions suivantes sont les actions que les joueurs peuvent utiliser pour accomplir des tâches spécifiques. Les possibles résultats sont listés ci-dessous. Certaines ont des résultats spécifiques de réussite ou d'échec. Si elle n'en ont pas c'est au joueur et au maître de jeu de gérer la situation.
 
-**Rapide et silencieux - Corps**
+### Rapide et silencieux - Corps
 
 Lancer **+Corps** quand tu essayes de bouger rapidement et/ou silencieusement
 
@@ -72,7 +72,7 @@ Lancer **+Corps** quand tu essayes de bouger rapidement et/ou silencieusement
 
 **7-9** : vous vous déplacez rapidement et silencieusement, qui est là ?
 
-**Lutte - Corps**
+### Lutte - Corps
 
 Lancer **+Corps** quand vous essayez de lutter contre quelqu'un ou quelque chose physiquement
 
@@ -86,7 +86,7 @@ Lancer **+Corps** quand vous essayez de lutter contre quelqu'un ou quelque chose
     <li>Les effrayer.</li>
 </ul>
 
-**Encaisser - Corps**
+### Encaisser - Corps
 Lancer **+Corps** quand vous recevez un coup
 
 **10+** : cela était plus dangereux qu'il n'y parassait. Vous esquivez le coup dans problème.
@@ -105,7 +105,7 @@ Lancer **+Corps** quand vous recevez un coup
     <li>Prendre les 3 options de liste 7-9.</li>
 </ul>
 
-**Convaincre - Cœur**
+### Convaincre - Cœur
 
 Lancer **+Cœur** quand vous essayez de vous faire entendre, idem pour de l'intimidation ou une conversation.
 **10+** : Ils vous entendent et vous croient

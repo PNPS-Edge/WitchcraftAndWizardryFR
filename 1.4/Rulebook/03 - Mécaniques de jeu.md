@@ -259,64 +259,104 @@ Joueur 1 lance 2d6+**Esprit** et obtient un 10
 **MJ** : " Tu remarques qu'il y a des runes tout autour de la bibliothèque, et ils semblent être là depuis peu. La bibliothèque est vraissemblablement piégés, probablement pour protéger au moins 1 livre.
 
 **Joueur 1** : "Restez tous en retrait ! Cette chose doit être piégé!"
+
 **Joueur 2** : "Est-ce que je remarque quelque chose autour des pièges ?"
 Joueur 2 lance 2d6 + Esprit et il obtient un 5.
+
 **Joueur 2** :" pwoua, cette pièce est poussiéreuse. Je ne voit rien".
+
 **Joueur 3** : "Ai-je lu quelque chose à propos de ces anciennes runes ?"
 Joueur 3 lance 2d6 + Esprit et obtient un 8.
+
 **MJ** : "Tu te rappelles avoir lu quelque chose à propos de ces runes avant, demande 2 questions de la liste "J'ai lu à ce propos".
+
 **Joueur 3** : "Hmm, qu'est ce que ça fait et d'où viennent elles ?"
+
 **MJ** : "Les runes sont liés à des livres en particulier sur l'étagère. Si tu arrive à retirer les livres correspondant de l'étagère cela désactivera le piège. Tu l'as lu dans un livre de sort  précédemment"
+
 **Joueur 4** : "J'agite ma baguette magique en décrivant un cercle puis un trait droit. Je lance le sort: Wingardium Leviosa ! C'est dans ma banque de sort."
 Joueur 4 lance 2d6 + Magic +1(car le sort est dans la banque) et obtient un 9
+
 **Joueur 4** : "Oh"
 MJ: "Il semble qu'il y ait des effets secondaires, choisit en 2  de la liste Lance un sort.
+
 **Joueur 4** : "Le sort voit effets diminué alors peut-être n'est-il pas assez fort et les livres tombent, alertant quelqu'un ou quelque chose du lancer de sort."
+
 **MJ** : "Le livre claque sur le sort en emportant d'autres livre sur son passage. L'étagère arrêtes de bouger.
 Joueurs : "Oui : C'est dom…."
+
 **MJ** : "C'est à ce moment là que la directrice Minerva McGonagall entre. En retenue ! Vous tous !"
 
 Les joueurs grogne à l'unisson.
 
 **MJ** : "Le géant vous poursuit à travers la forêt interdite, ces longues enjambées font vibrer le sol dans sa course. Que faites vous ?
+
 **Joueur 1** : "Je vais essayer de montrer mon courage et revenir avec un plan"
 Joueur lance 2d6 ° Ame et obtient un 3
+
 **Joueur 1** : Je regardes derrière moi et vois le pied presque m'écraser. Je cri à plein poumon et cours sur le côté, me séparant du groupe et m'éloignant comme un pleutre.
+
 **MJ** : SI tu essayes de te reconfronter à cette créature, notes que tu auras un malus de -1.
+
 **Joueur 2** : Je vais me cacher, Rapide et silencieux.
 Joueur 2 lance 2d6 + Corps et obtient un 11
+
 **Joueur 2** : Je plonge derrière un buisson : Attends. Puis je attraper la personne la plus proche de moi ?
+
 **MJ** : Ca ressemble plus à de la lutte.
 Joueur 2 lance 2d6 ° Corps ° Relations avec Joueur 3 et obtient un 7
+
 **Joueur 2** : OK, donc je suppose que j'ignore tous les dégâts qui peuvent arriver et j'attrape le joueur 3.
+
 **Joueur 3** : "Je suis un flipette, pour sur. Les géants me font flipper"
+
 **Joueur 4** : "Et moi alors ? OK, je suis plutôt frêle…. Donc je ne suis pas probablement pas très rapide. JE SUIS  Je crie au géant : ATTENDS ! JE PEUX T'AIDER ! ON DIRAIT QUE T'AS BESOIN D'AIDE !
+
 **MJ** : "OK, Donc tu essayes de convaicre the géant que… ils ont besoin d'aide ?
+
 **Joueur 4** : "Euh… oui."
+
 **MJ** : "Ok, vas-y lance".
 Joueur 4 lance 2d6 + Cœur et obtiens un 6
+
 **Joueur 4** : "Oh no"
+
 **MJ** : "Le géant t'ignore et lance sa main vers toi. Tiens le coup!
 Joueur 4 lance 2d6 + Corps et obtient un 9
+
 **Joueur 4** : "Euh, Je vais probablement prendre un état ici…
 Etourdi peut-être comme je suis KO et je pense être balayé de ma position. AU SECOURS! 
+
 **Joueur 3** : Je pointe ma baguette magique et lance un sort sur le joueur 4 ! Reducto 
 Joueur 3 lance 2d6 + Magie + Relation avec le joueur 4 et obtient une 10
+
 **MJ** : Le géant regarde autour de lui perplexe. Il cherche autour de lui mais il n'arrive pas à te trouver. Il se retourne et grogne comme un tremblement de terre.
 
 **MJ** : "Avant le match Quidditch, le public autour de vous est surtout festif. Les professeurs échangent avec les élèves sur les potentiels gagnants du match et la foule est de plus en plus enthousiaste. C'est un grand jour !
+
 **Joueur 1** : "Je scanne la foule pour vois si je remarque quelque chose"
 Joueur 1 lance 2d6 et obtient un 7.
+
 **Joueur 1** : Est-ce que je remarque quelqu'un ou quelque chose qui se cache autour ?
+
 **MJ** : "Certains des gradins du public semblent secouer un peu la foule. Ils ont l’air confus et il semble bouger. Ca semble  important."
+
 **Joueur 1**  : " C'est probablement grave"
+
 **Joueur 2** : "Je suis prêt pour le match et je m'assure que mon balai soit en top condition et défini un plan avec mon équipe. J'aimerais Lire entre les lignes de mon équipe pour voir ce qu'il font"
 Joueur 2 lance 2d6 + cœur et obtient un 11
+
 **Joueur 2** : "J'aimerais savoir comment l'équipe se sent".
+
 **MJ** : "L'équipe se sent vraiment stressé. Serpentard a une équipe vraiment bonne cette année et sont premier du classement. Le gardien semble particulièrement anxieux."
+
 **Joueur 2** : J'aimerais savoir comment je peux les amener à me faire confiance. Je ne me suis pas toujours bien intégré avec eux jusqu'à présent, cela ne sera pas facile.
+
 **MJ** : "Ils lancent des regards frénétiques à l'équipe de Serpentard et particulièrement à l'un de leur poursuiveurs. Tu as l'impression qu'ils ont une assurance pour le poursuiveur. Sont-ils amis avec lui ? Peut-être peux tu leur parler au nom du gardien ?"
+
 **Joueur 2** : " Ah oui ! Je m'approche du gardien et pose une main sur son épaule. Tu sais…. Ils sont dans mon cours de potions. Je suis amis avec eux ! Je peux te les présenter, si tu veux. Je tente complètement d'inspirer les autres.
 Joueur 2 lance 2d6 + Ame et obtient un 4
+
 **Joueur 2** : Je pense que le gardien me regarde horrifié"
+
 **MJ** : "Complètement. Ses yeux s'écarquillent et rougissent. Je ne veux pas les rencontrer. De quoi est ce que tu parles ? Restes concentré sur le jeu. C'est à ce moment là que les gradins éclatent bruyamment en milles morceaux. Plusieurs spectateurs s'écroulent en ligne dans le sable et le terrain. Une créature poilue émerge des décombres, salivant. Plusieurs professeur semblent étourdis. Que faites vous ?"

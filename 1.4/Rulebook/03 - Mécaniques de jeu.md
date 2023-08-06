@@ -1,13 +1,14 @@
 # Mécaniques de jeu
 
 ## Ce qu'il va vous falloir pour jouer
-
-2 dés à 6 faces (Physique ou virtuel)
-Ce livre de règles.
-Quelque chose pour écrire et une bonne gomme (ou effaceur)
-La(es) fiches de personnages (physique ou virtuelle)
-Un Maître de Jeu
-Au moins 3 joueurs et au maximum 5 joueurs (cela peut être modifié, mais une certaine expérience du jeu)
+<ul>
+    <li>2 dés à 6 faces (Physique ou virtuel)</li>
+    <li>Ce livre de règles.</li>
+    <li>Quelque chose pour écrire et une bonne gomme (ou effaceur)</li>
+    <li>La(es) fiches de personnages (physique ou virtuelle)</li>
+    <li>Un Maître de Jeu</li>
+    <li>Au moins 3 joueurs et au maximum 5 joueurs (cela peut être modifié, mais une certaine expérience du jeu)</li>
+</ul>
 
 ## Comment jouer
 

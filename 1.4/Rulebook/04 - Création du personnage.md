@@ -140,8 +140,8 @@ Notez les traits sur votre feuille dans l'ordre d'importance selon votre personn
 | Bizarre | 15 | Décharné | 35 | Corpulent | 55 |
 | Gros | 16 | Mince | 36 | Grand | 56 |
 | Osseux | 21 | Souple | 41 | Gigantesque | 61 |
-| Voûté | 22 | Muet /* | 42 | Tremblant | 62 |
-| Sourd /* | 23 | Enfantin | 43 | Faible | 63 |
+| Voûté | 22 | Muet * | 42 | Tremblant | 62 |
+| Sourd * | 23 | Enfantin | 43 | Faible | 63 |
 | Digne | 24 | Rigide | 44 | Fluet | 64 |
 | Sale | 25 | Marqué | 45 | Filiforme | 65 |
 | Energique | 26 | Chétif | 46 | Tordue | 66 |

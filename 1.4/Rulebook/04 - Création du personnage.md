@@ -127,7 +127,7 @@ La plupart des sorciers et des sorcières considère que pour qu'un individu soi
 
 Notez les traits sur votre feuille dans l'ordre d'importance selon votre personnage. Ce choix sera utilisé pour définir la maison appropriée à Poudlard durant la cérémonie du Choixpeau.
 
-## Etape 2 : Choisissez à quoi votre personnage ressemble. Ici des tableaux  si vous voulez rentre aléatoire le style de votre personnage ou si vous voulez quelques suggestions (Choisissez 1 de chaque, ou plusieurs si vous préférez !)
+## Etape 3 : Choisissez à quoi votre personnage ressemble. Ici des tableaux  si vous voulez rentre aléatoire le style de votre personnage ou si vous voulez quelques suggestions (Choisissez 1 de chaque, ou plusieurs si vous préférez !)
 
 ### Corps :
 
@@ -169,15 +169,19 @@ Notez les traits sur votre feuille dans l'ordre d'importance selon votre personn
 
 | Apparence | 2d6 | Apparence | 2d6 | Apparence | 2d6 |
 |-------|-----|-------|-----|-------|-----|
-| Logique | 11 | Désintéressé | 31 | Grand | 51 |
-| Anxieux | 12 | Distrait | 32 | Espiègle | 52 |
-| Arrogant | 13 | Peureux | 33 | Noble | 53 |
-| Attentif | 14 | Intrépide | 34 | Pénétrant | 54 |
-| Beaux | 15 | Concentré | 35 | Perçant | 55 |
-| Aveugle * | 16 | Coupable | 36 | Profond | 56 |
-| Joyeux | 21 | Hypnotisant | 41 | Timide | 61 |
-| Enjoué | 22 | Indifférent | 42 | Sceptique | 62 |
-| Froid | 23 | Innocent | 43 | Suspicieux | 63 |
-| Curieux | 24 | Intelligeant | 44 | Fatigué | 64 |
-| Noir | 25 | Intense | 45 | Compréhensif | 65 |
-| Digne | 26 | Gentil | 46 | Chaleureux | 66 |
+| Androgyne | 11 | Rincé | 31 | Anguleux | 51 |
+| Inquiet | 12 | Amical | 32 | Souriant | 52 |
+| Aristocratique | 13 | Sinistre | 33 | Doux | 53 |
+| Ennuyeux | 14 | Hagard | 34 | Douloureux | 54 |
+| Captivant | 15 | Indifférent | 35 | Mâchoire carré | 55 |
+| Enfantin | 16 | Etroit | 36 | Poupon | 56 |
+| Déterminé | 21 | Pale | 41 | En sueur | 61 |
+| Disproportionné | 22 | Mignon | 42 | Tendu | 62 |
+| Décharné | 23 | Rassurant | 43 | Fin | 63 |
+| Excitant | 24 | Rond | 44 | Dur | 64 |
+| Inexpressif | 25 | Triste | 45 | Passe partout | 65 |
+| Expressif | 26 | Marqué | 46 | Sauvage | 66 |
+
+<i>Reportez vous au "05 - Au chemin de traverse" pour les étapes intermédiares</i>
+
+## Etape 7 : Choisissez la famille de votre personnage

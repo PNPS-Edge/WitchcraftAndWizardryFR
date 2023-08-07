@@ -182,6 +182,20 @@ Notez les traits sur votre feuille dans l'ordre d'importance selon votre personn
 | Inexpressif | 25 | Triste | 45 | Passe partout | 65 |
 | Expressif | 26 | Marqué | 46 | Sauvage | 66 |
 
-<i>Reportez vous au "05 - Au chemin de traverse" pour les étapes intermédiares</i>
+## Etape 4 : Choisissez la famille et le vécu de votre personnage
 
-## Etape 7 : Choisissez la famille de votre personnage
+**Parents** : Tirez de 2 traits de personnalité positifs et 2 traits négatifs pour chaque parents.
+
+Qui sont vos parents ? Sont-ils toujours mariés ? Sont-ils toujours en vie ? Quel est leur position vis à vis de la magie ? Quel est ta relation avec eux ? Quel est leur relation avec toi ?
+
+**Fratrie** : Tirez de 2 traits de personnalité positifs et 2 traits négatifs pour chaque membres de la fratrie.
+
+Est-ce que tu as des frères et soeurs ? Combien ? Quels sont leurs noms ? Quel âge ont-ils ? Sont-ils à Poudlard ? En quelle année ? Quel est ta relantion avec eux ?
+
+**A propos de vous** ?
+
+Quel est votre plus grande peur ? Quel est votre friandise préférée ? Qu'aime votre famille ? Quel accomplissement recherchez vous ? A qui tenez-vous le plus ? Quel est vote activité sportive préférée ? Qu'est ce qui est le plus important pour vous ? Quel est votre passe temps préféré ? Quel est votre livre préféré ? Quel type de magie vous intéresse le plus ?
+
+## Etape 5 : Rencontre avec le reste du groupe
+
+Le relationnel est toujours important dans les parties de jeu de rôle, mais vos amis et caramades affecterons vos lancers de dés dans "De Sorcellerie et de magie" de manière mécanique. Lorsque vous effecturez un lancer qui les concerne, vous ajouterez votre score de relationnel à votre lancer. Ces relations vont écoluer tout au long des parties et des campagnes, particulièrement à la fin de chaque session.

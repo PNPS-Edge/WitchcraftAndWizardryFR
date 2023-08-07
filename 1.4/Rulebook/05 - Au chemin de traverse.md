@@ -1,6 +1,6 @@
 # Au chemin de traverse
 
-## Etape 4 : Sélection de la baguette magique
+## Etape 6 : Sélection de la baguette magique
 
 Basé sur la date de naissance de votre personnage que vous avez choisit à l'étape 1. choisissez le bois qui correspond à ce calendrier :
 
@@ -30,7 +30,7 @@ Basé sur les traits que vous avez choisi pour votre personnage et en fonction d
 
 Gentiment courbé, surprenamment précieux, précieux, légèrement précieux, légèrement élastique, assez courbé, vraiment flexible, relativement flexible, souple, raisonnablement souple, rétractable, cassante, dure, solide, raide, rigide, inflexible, légèrement flexible, intransigeant, fougueuse.
 
-## Etape 5 : Sélection d'un animal de companie
+## Etape 7 : Sélection d'un animal de companie
 
 Choisissez entre un chat, un chouette ou un crapaud comme animal de companie. Vous pouvez également lancer 1d6 :
 1-2 : pour un chat
@@ -39,7 +39,7 @@ Choisissez entre un chat, un chouette ou un crapaud comme animal de companie. Vo
 
 Quel est son nom ? Quelle est sa personnalité ? A quoi il ressemble ?
 
-## Etape 6 : Achat de biens
+## Etape 8 : Achat de biens
 
 Comment chaque joueur va-t-il payer pour le strict minimum pour leur année ? Est-ce que les parents vous payer les éléments les plus onéreux ? Est-ce que les parents vons faire les achats pour des livres, des uniformes and des fournitures d'occasion ? Y a t'il des enfants scrutant ce genre de chose ? C'est le bon moment d'introduire les arcelleurs.
 

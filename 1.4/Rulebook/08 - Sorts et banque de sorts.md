@@ -74,7 +74,7 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Bafouillage | 2 | Provoque des bafouillages incontrôlables. | Malédiction |
 | Carpe Retractum | 2 | Produit une corde de lumière utilisé pour tirer un objet vers l'invocateur. Si l'objet est coincé, l'invocateur est attiré vers lui. | Charme |
 | Chaudron en tamis | 2 | Transforme des chaudrons en tamis | Charme |
-| Tuste | 2 | Ce sort, qui peut fonctionner de différente façon est utilisé pour tricher sur des papiers administratifs, des tests et des examens. | Charme |
+| Crache-Limace | 2 | Fait vomir des limaces à la victime. | Malédiction |
 | Everte Statum | 2 | Projette la victime en arrière, de la manière que s'il avait été jeté. | Charme |
 | Expelliarmus | 2 | Force n'importe quel opposant à projetter ce qui est tenu. | Charme |
 | Finite Incantatum | 2 | Interromp tout les effets des sort dans les environs de l'invocateur. | Charme |
@@ -82,9 +82,9 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Illegibilus | 2 | Rend les écritures impossibles à lire. | Charme |
 | Immobulus | 2 | Immobilise et stoppe les actions de la cible. Fonctionne sur les vivants et les objets. | Charme |
 | Rictusempra | 2 | Chatouille la cible jusqu'à ce qu'elle devienne faible à force de rire. | Charme |
-| Sort de sardine | 2 | La victime éternue des sardines. | Sortilèges |
+| Sardinie | 2 | La victime éternue des sardines. | Sortilèges |
 | Serpensortia | 2 | Invoque un serpent au bout de la baguette. | Conjuration |
-| Crache-Limace | 2 | Fait vomir des limaces à la victime. | Malédiction |
 | Steleus | 2 | Fait vomir des limaces à la victime. | Sort |
 | Stupéfix | 2 | Etourdis la victime, le rendant inconscient. | Sort |
+| Treacherous| 2 | Ce sort, qui peut fonctionner de différente façon est utilisé pour tricher sur des papiers administratifs, des tests et des examens. | Charme |
 | Vera Verto | 2 | Change les animaux en verre. | Métamorphose |

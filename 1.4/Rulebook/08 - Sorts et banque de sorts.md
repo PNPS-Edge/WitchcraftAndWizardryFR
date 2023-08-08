@@ -12,9 +12,22 @@ PJ avec d'une famille de **sang pur**, ou de **sang mêlé** aura un bonus d'un 
 | Année d'étude | Sorts de 1er année | Sorts de 2éme année | Sorts de 3éme année | Sorts de 4éme année | Sorts de 5éme année | Sorts de 6éme année | Sorts de 7éme année |
 |---------------|--------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 | 1ère année | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2ère année | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 3ère année | 3 | 3 | 3 | 0 | 0 | 0 | 0 |
-| 4ère année | 3 | 3 | 3 | 3 | 0 | 0 | 0 |
-| 5ère année | 3 | 3 | 3 | 3 | 3 | 0 | 0 |
-| 6ère année | 3 | 3 | 3 | 3 | 3 | 3 | 0 |
-| 7ère année | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+| 2ème année | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 3ème année | 3 | 3 | 3 | 0 | 0 | 0 | 0 |
+| 4ème année | 3 | 3 | 3 | 3 | 0 | 0 | 0 |
+| 5ème année | 3 | 3 | 3 | 3 | 3 | 0 | 0 |
+| 6ème année | 3 | 3 | 3 | 3 | 3 | 3 | 0 |
+| 7ème année | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+<i>Si vous ne commencez pas en première année, voici une table pour vous aider à déterminer combien de sorts sont disponibles dans votre banque en début de partie.</i>
+
+Vous pouvez tenter de jeter un sort de la liste, En revanche... chanque année au delà de votre année actuelle d'étude apportera un malus. Il faudra retirer -1 à votre lancé pour chanque année d'écart ou +1 pour chanque année précédente. Vous ne pouvez pas ajouter des sorts qui sont au delà de votre année actuelle à votre **banque de sorts ou les choisir comme sort signature**.
+
+**Voici un example de situation de jet de sort :**
+
+**MJ** : "Joueur 1 a rassemblé son courage pour demander à quelqu'un pour avoir quelques bièraubeurres de Pré-au-Lard.
+**Joueur 2** : "Oui, cela ne me plait pas. Elles devraient me revenir. Je vais **jeter un sort**. Slugulus Eructo !
+**MJ** : "Ok, il semble que ta relation avec le joueur 1 n'est pas au beau fixe. Tu vas avoir un -1. Assures-toi de bien soustraire au résultat de ton jet."
+**Joueur 2** : "Slugulus Eructo est dans ma banque de sorts. C'est aussi un sort de 2ème année et je suis en 3ème année."
+<i>Joueur 2 lance 2d6 + **Magie** + 2 (car Slugulus Erecto est dans la **banque de sorts** ET le sort est un sort de l'année dernière) -1 (**Statut relationnel** avec le joueur 1) et le total arrive à un 10</i>
+
+

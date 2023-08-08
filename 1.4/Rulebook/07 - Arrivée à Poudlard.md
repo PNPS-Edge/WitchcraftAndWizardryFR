@@ -6,15 +6,15 @@ Les premières années sont escortés by le gardien des clés et des lieux le lo
 
 Les festivités de la rentrée démarrent juste après la cérémonie de répartition après le directeur dit quelques mots de bienvenue aux élèves. Après le festin, les directeurs des maisons diront quelques mots et éventuellement cela conduira à l'hymne de l'école si le coeur vous en dit.
 
-<i>Poudlard, Poudlard, Pou du Lard du Poudlard
-Apprends-nous ce qu'il faut savoir,
-Que l'on soit jeune ou vieux ou chauve
-Ou qu'on ait les jambes en guimauve,
-On veut avoir la tête bien pleine
-Jusqu'à en avoir la migraine
-Car pour l'instant c'est du jus d'âne,
-Qui mijote dans nos crânes,
-Oblige-nous à tout étudier,
-Répète-nous c'qu'on a oublié,
-Fais de ton mieux, qu'on se surpasse
-Jusqu'à c'que nos cerveaux crient grâce.</i>
+<i>Poudlard, Poudlard, Pou du Lard du Poudlard</br>
+Apprends-nous ce qu'il faut savoir,</br>
+Que l'on soit jeune ou vieux ou chauve</br>
+Ou qu'on ait les jambes en guimauve,</br>
+On veut avoir la tête bien pleine</br>
+Jusqu'à en avoir la migraine</br>
+Car pour l'instant c'est du jus d'âne,</br>
+Qui mijote dans nos crânes,</br>
+Oblige-nous à tout étudier,</br>
+Répète-nous c'qu'on a oublié,</br>
+Fais de ton mieux, qu'on se surpasse</br>
+Jusqu'à c'que nos cerveaux crient grâce.</br></i>

@@ -19,3 +19,7 @@ Répète-nous c'qu'on a oublié,</br>
 Fais de ton mieux, qu'on se surpasse</br>
 Jusqu'à c'que nos cerveaux crient grâce.</br></i>
 </p>
+
+C'est une bonne opportunité pour se mettre dans l'ambiance avec le groupe en utilisant des playlists ou en s'immmergeant dans la majesté du grand hall de Poudlard et de l'événement lui-même. Prenez le temps d'expliquer quelqu'une des merveilleux mets disponibles, des décorations des différentes maisons et donné aux joueurs l'opportunité de discutter avec d'autres étudiants de leur propre table. Créez quelques étudiants PNJ pour leur permettrent de discutter et faire quelques révélations. 
+
+Regardez la section "**Maître de jeu**" de ce livre pour créer quelques étudiants PNJ, professeurs, méchants, et/ou créatures pour vos aventures. **Rappellez vous que l'univers est magique !**

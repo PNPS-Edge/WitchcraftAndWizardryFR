@@ -42,11 +42,12 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Sort | Année | Description | Genre |
 |------|-------|-------------|-------|
 | Alohomora | 1 | Dévérouille portes et autres objets. Il peut dévérouiller les portes scéllées par un sort de fermeture, bien qu'il soit possible d'ensorceller les portes pour ne plus être affectées par ce sort. | Charme |
-| Blairisation | 1 | Transforme des objets en blaireaux. | Métamorphose |
 | Baubilious | 1 | Etincelles blanches sont émises au bout de la baguette. | Charme |
+| Blairisation | 1 | Transforme des objets en blaireaux. | Métamorphose |
 | Boules de neige ensorcellées | 1 | Les boules de neiges bombardent elles-même une cible. | Charme |
 | Caeruleo Incendio | 1 | Produit des flammes bleues qui peuvent être contenu en bouteille. Ne sont pas dangereuses comme un vrai feu, ces flammes magiques peuvent être touchées, traversées et tenues sans bruler son porteur bien qu'elles soient connues pour roussir du matériels, les vêtements et les plantes. | Charme |
 | Incendio | 1 | Produit du feu. | Charme, Conjuration |
+| Lave-vaissellus | 1 | Enchante la vaisselle sale pour se laver elle-même. | Charme |
 | Locomotor Mortis | 1 | Colle les jambes ensemble. | Malédiction |
 | Lumos | 1 | Illumine le bout de la baguette magique du magicien, pour lui permettre de voir dans l'obscurité. | Charme |
 | Mucus ad Nauseam | 1 | Donne à la victime un méchant rhume and un nez extrêmement coulant ce qui pourrait neutraliser la victime si cela n'est pas soigné. ce rhume est accompagné d'un reniflement constant. | Malédiction |
@@ -62,5 +63,8 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Tarantallegra | 1 | Fait parcourir des spasmes hors de contrôle sur les jambes de la cible donnant l'illusion qu'elles dancent. | Charme |
 | Trébucher | 1 | Fait trébucher la cible et la force à tomber. | Charme |
 | Verdemillius | 1 | Etincelles vertes sont émises au bout de la baguette. | Charme |
-| Lave-vaissellus | 1 | Enchante la vaisselle sale pour se laver elle-même. | Charme |
 | Wingardium Leviosa | 1 | Fait voler ou léviter des objets. | Charme |
+| Aberto | 2 | Déverouilles les portes | Charme |
+| Accio | 2 | Invoquer un sortilège : utilisé pour invoquer des objets jusqu'au magicien | Charme |
+| Aquamenti | 2 | Produit un jet d'eau depuis le bout de la baguette | Charme |
+| Aparecium | 2 | Révèles le message secret écrit en encre invisible, ou des marques invisibles. Fonctionne également contre des charmes de dissimulation | Charme |

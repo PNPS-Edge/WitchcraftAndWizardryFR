@@ -68,3 +68,22 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Accio | 2 | Invoquer un sortilège : utilisé pour invoquer des objets jusqu'au magicien | Charme |
 | Aquamenti | 2 | Produit un jet d'eau depuis le bout de la baguette | Charme |
 | Aparecium | 2 | Révèles le message secret écrit en encre invisible, ou des marques invisibles. Fonctionne également contre des charmes de dissimulation | Charme |
+| Arresto Momentum | 2 | Diminu la vélocité d'un corps en mouvement. Peut-être utilisé sur plusieurs cibles, tout comme sur les invocateurs. | Charme |
+| Avifors | 2 | Transforme la cible en oiseau. | Métamorphose |
+| Bafouillage | 2 | Provoque des bafouillages incontrôlables. | Malédiction |
+| Carpe Retractum | 2 | Produit une corde de lumière utilisé pour tirer un objet vers l'invocateur. Si l'objet est coincé, l'invocateur est attiré vers lui. | Charme |
+| Chaudron en tamis | 2 | Transforme des chaudrons en tamis | Charme |
+| Tuste | 2 | Ce sort, qui peut fonctionner de différente façon est utilisé pour tricher sur des papiers administratifs, des tests et des examens. | Charme |
+| Everte Statum | 2 | Projette la victime en arrière, de la manière que s'il avait été jeté. | Charme |
+| Expelliarmus | 2 | Force n'importe quel opposant à projetter ce qui est tenu. | Charme |
+| Finite Incantatum | 2 | Interromp tout les effets des sort dans les environs de l'invocateur. | Charme |
+| Flipendo | 2 | Fait tomber au sol en arrière objets et créatures. | Sort |
+| Illegibilus | 2 | Rend les écritures impossibles à lire. | Charme |
+| Immobulus | 2 | Immobilise et stoppe les actions de la cible. Fonctionne sur les vivants et les objets. | Charme |
+| Rictusempra | 2 | Chatouille la cible jusqu'à ce qu'elle devienne faible à force de rire. | Charme |
+| Sort de sardine | 2 | La victime éternue des sardines. | Sortilèges |
+| Serpensortia | 2 | Invoque un serpent au bout de la baguette. | Conjuration |
+| Crache-Limace | 2 | Fait vomir des limaces à la victime. | Malédiction |
+| Steleus | 2 | Fait vomir des limaces à la victime. | Sort |
+| Stupéfix | 2 | Etourdis la victime, le rendant inconscient. | Sort |
+| Vera Verto | 2 | Change les animaux en verre. | Métamorphose |

@@ -41,9 +41,26 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 
 | Sort | Année | Description | Genre |
 |------|-------|-------------|-------|
-| Alohomora | 1 | Dévérouille portes et autres objets. Il peut dévérouiller les portes scéllées par un sort de fermeture, bien qu'il soit possible d'ensorceller les portes pour ne plus être affectées par ce sort | Charme |
-| Blairisation | 1 | Transforme des objets en blaireaux | Métamorphose |
-| Baubilious | 1 | Etincelles blanches sont émises au bout de la baguette | Charme |
-| Boules de neige ensorcellées | 1 | Les boules de neiges bombardent elles-même une cible | Charme |
-| Caeruleo Incendio | 1 | Produit des flammes bleues qui peuvent être contenu en bouteille. Ne sont pas dangereuses comme un vrai feu, ces flammes magiques peuvent être touchées, traversées et tenues sans bruler son porteur bien qu'elles soient connues pour roussir du matériels, les vêtements et les plantes | Charme |
-| Incendio | 1 | Produit du feu | Charme, Conjuration |
+| Alohomora | 1 | Dévérouille portes et autres objets. Il peut dévérouiller les portes scéllées par un sort de fermeture, bien qu'il soit possible d'ensorceller les portes pour ne plus être affectées par ce sort. | Charme |
+| Blairisation | 1 | Transforme des objets en blaireaux. | Métamorphose |
+| Baubilious | 1 | Etincelles blanches sont émises au bout de la baguette. | Charme |
+| Boules de neige ensorcellées | 1 | Les boules de neiges bombardent elles-même une cible. | Charme |
+| Caeruleo Incendio | 1 | Produit des flammes bleues qui peuvent être contenu en bouteille. Ne sont pas dangereuses comme un vrai feu, ces flammes magiques peuvent être touchées, traversées et tenues sans bruler son porteur bien qu'elles soient connues pour roussir du matériels, les vêtements et les plantes. | Charme |
+| Incendio | 1 | Produit du feu. | Charme, Conjuration |
+| Locomotor Mortis | 1 | Colle les jambes ensemble. | Malédiction |
+| Lumos | 1 | Illumine le bout de la baguette magique du magicien, pour lui permettre de voir dans l'obscurité. | Charme |
+| Mucus ad Nauseam | 1 | Donne à la victime un méchant rhume and un nez extrêmement coulant ce qui pourrait neutraliser la victime si cela n'est pas soigné. ce rhume est accompagné d'un reniflement constant. | Malédiction |
+| Nox | 1 | Eteint le bout de la baguette. Il est le contre charme de Lumos. | Charme |
+| Occulus Reparo | 1 | Répare des lunettes. | Charme |
+| Papyrus Reparo | 1 | Répare des bouts de papier. | Charme |
+| Petrificus Totalus | 1 | Utilisé pour temporairement tendre le corps de la victime dans la position d'un soldat au garde à vous. La victime tombe généralement au sol. | Malédiction |
+| Reducio | 1 | Réduit la taille d'un objet. Son contre-charme est Engorgio (4). | Charme |
+| Reparifarge | 1 | Utilisé pour annuler les métamorphoses incomplètes. | Métamorphose |
+| Reparo | 1 | Répare les objets cassés. | Charme |
+| Glissante | 1 | Rends les objets glissants et difficile à tenir. | Superstition |
+| Spongieux | 1 | Rends les objets lisses, caoutchouteux et rebondissant. | Charme |
+| Tarantallegra | 1 | Fait parcourir des spasmes hors de contrôle sur les jambes de la cible donnant l'illusion qu'elles dancent. | Charme |
+| Trébucher | 1 | Fait trébucher la cible et la force à tomber. | Charme |
+| Verdemillius | 1 | Etincelles vertes sont émises au bout de la baguette. | Charme |
+| Lave-vaissellus | 1 | Enchante la vaisselle sale pour se laver elle-même. | Charme |
+| Wingardium Leviosa | 1 | Fait voler ou léviter des objets. | Charme |

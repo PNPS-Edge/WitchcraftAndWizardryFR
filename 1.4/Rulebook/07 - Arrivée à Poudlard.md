@@ -6,7 +6,7 @@ Les premières années sont escortés by le gardien des clés et des lieux le lo
 
 Les festivités de la rentrée démarrent juste après la cérémonie de répartition après le directeur dit quelques mots de bienvenue aux élèves. Après le festin, les directeurs des maisons diront quelques mots et éventuellement cela conduira à l'hymne de l'école si le coeur vous en dit.
 
-<i>Poudlard, Poudlard, Pou du Lard du Poudlard</br>
+<i style="text-align: center;">Poudlard, Poudlard, Pou du Lard du Poudlard</br>
 Apprends-nous ce qu'il faut savoir,</br>
 Que l'on soit jeune ou vieux ou chauve</br>
 Ou qu'on ait les jambes en guimauve,</br>

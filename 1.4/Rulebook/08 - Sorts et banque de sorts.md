@@ -1,4 +1,4 @@
-# Arrivée à Poudlard
+# Sorts et banque de sorts
 
 ## Etape 10 : Choisissez vos sorts pour votre banque de sorts
 
@@ -42,3 +42,8 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Sort | Année | Description | Genre |
 |------|-------|-------------|-------|
 | Alohomora | 1 | Dévérouille portes et autres objets. Il peut dévérouiller les portes scéllées par un sort de fermeture, bien qu'il soit possible d'ensorceller les portes pour ne plus être affectées par ce sort | Charme |
+| Blairisation | 1 | Transforme des objets en blaireaux | Métamorphose |
+| Baubilious | 1 | Etincelles blanches sont émises au bout de la baguette | Charme |
+| Boules de neige ensorcellées | 1 | Les boules de neiges bombardent elles-même une cible | Charme |
+| Caeruleo Incendio | 1 | Produit des flammes bleues qui peuvent être contenu en bouteille. Ne sont pas dangereuses comme un vrai feu, ces flammes magiques peuvent être touchées, traversées et tenues sans bruler son porteur bien qu'elles soient connues pour roussir du matériels, les vêtements et les plantes | Charme |
+| Incendio | 1 | Produit du feu | Charme, Conjuration |

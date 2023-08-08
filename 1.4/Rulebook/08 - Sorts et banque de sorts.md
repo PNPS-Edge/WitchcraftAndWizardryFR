@@ -64,6 +64,7 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Trébucher | 1 | Fait trébucher la cible et la force à tomber. | Charme |
 | Verdemillius | 1 | Etincelles vertes sont émises au bout de la baguette. | Charme |
 | Wingardium Leviosa | 1 | Fait voler ou léviter des objets. | Charme |
+
 | Aberto | 2 | Déverouilles les portes | Charme |
 | Accio | 2 | Invoquer un sortilège : utilisé pour invoquer des objets jusqu'au magicien | Charme |
 | Aquamenti | 2 | Produit un jet d'eau depuis le bout de la baguette | Charme |

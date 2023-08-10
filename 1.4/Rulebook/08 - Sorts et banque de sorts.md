@@ -84,7 +84,18 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Rictusempra | 2 | Chatouille la cible jusqu'à ce qu'elle devienne faible à force de rire. | Charme |
 | Sardinie | 2 | La victime éternue des sardines. | Sortilèges |
 | Serpensortia | 2 | Invoque un serpent au bout de la baguette. | Conjuration |
-| Steleus | 2 | Fait vomir des limaces à la victime. | Sort |
+| Steleus | 2 | Un sort qui provoque un violent éternuement pour une courte période de temps. ce sort est utilisé pour distraire en combat. | Sort |
 | Stupéfix | 2 | Etourdis la victime, le rendant inconscient. | Sort |
 | Treacherous| 2 | Ce sort, qui peut fonctionner de différente façon est utilisé pour tricher sur des papiers administratifs, des tests et des examens. | Charme |
 | Vera Verto | 2 | Change les animaux en verre. | Métamorphose |
+
+| Alerte Ascendare | 3 | Projette la cible dans les airs. | Charme |
+| Aqua Eructo | 3 | Ce sort est utilisé pour créer et contrôler un jet d'eau sorti du bout de la baguette. Probablement en synergie avec Aquamenti. | Charme |
+| Avis | 3 | Invoque une volée d'oiseaux du bout de la baguette. Utilisé avec la conjuration avec Oppugno, cela le rendra offenssif. | Conjuration |
+| Bombarda | 3 | Provoque une petite explosion. | Charme |
+| Scopae | 3 | Utilisé pour que les balais essaient d'éjecter leur pilote. Cela va occasionner des mouvements disparates. Un contact visuel est nécéssaire pour guarder le sort actif. | Sort |
+| Sourire | 3 | Rend la cible heureuse. Une surutilisation de ce sort peut mettre la cible dans un fou rire incontrôlable. | Sort |
+| Colloshoo | 3 | Colle les chaussures de la cible sur le sol. | Sort |
+| Confundo | 3 | Rend la cible confus et embrouillé. | Sort |
+| Pétarade | 3 | Invoque des pétards magiques. Cela peut être utilisé pour blessé votre oposant en cas de duel, mais l'explosion a des chances de blesser l'invocateur. | Sort |
+| Dissendium | 3 | Ouvre des passages. Ouvre des choses en général. | Sort |

@@ -19,7 +19,10 @@ Quelques fois, les étudiants apprennent véritablement quelque chose à l'écol
 #### Seconde à quatrième année (Choisis 1 en début d'année scolaire)
 
 [ ] [ ] +1 sur un attribut (Max +3 par attribut)
+
 [ ] [ ] [ ] [ ] Dévérouille et ajoute un sort correspondant à ton année actuelle à ta banque de sorts.
+
+
 #### Cinquième à septième année (Choisis 1 en début d'année scolaire)
 
 #### Seconde à septième année (En complément de tes autres choix, choisis 1 en début d'année scolaire)

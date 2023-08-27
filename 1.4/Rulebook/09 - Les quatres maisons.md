@@ -12,6 +12,6 @@ Entrée par mot de passe derrière le tableau de la grosse dame.
 Tous les membres de Gryffondor **choisissent 1** de ces avantages :
 
 <ul>
-    <li>Réussite automatique d'une **action de courage** une fois par jour.</li>
-    <li>Se débarrasser de la **condition blessé** une fois par jour.</li>
+    <li>Réussite automatique d'une <strong>action de courage</strong> une fois par jour.</li>
+    <li>Se débarrasser de la  <strong>condition blessé</strong> une fois par jour.</li>
 </ul>

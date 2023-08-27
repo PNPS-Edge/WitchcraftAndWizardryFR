@@ -4,7 +4,7 @@ Les maisons de Poudlard aide à façonner le futur de tout les étudiants qui en
 
 ## Gryffondor
 
-https://harrypotter.fandom.com/wiki/Gryffindor
+https://harrypotter.fandom.com/wiki/Gryffindor</br>
 Spectre de la maison : Nick quasi sans tête
 Salle commune : En haut de tour de Gryffondor.
 Entrée par mot de passe derrière le tableau de la grosse dame.

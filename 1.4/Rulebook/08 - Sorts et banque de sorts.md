@@ -151,3 +151,4 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | PeaurnFlakes | 5 | Donne à la peau de la cible la texture de cornflakes. | Malédiction |
 | Crinus Muto | 5 | Utilisé pour métamorphoser la couleur et le style de cheveux. | Métamorphose |
 | Deletrius | 5 | Countre charme du sort d'invertion. | Charme |
+| Charme de désillusion | 5 | Permet à la cible de se fondre avec le décors. | Charme |

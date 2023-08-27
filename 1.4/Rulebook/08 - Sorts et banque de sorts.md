@@ -99,3 +99,55 @@ La liste est divisée par année d'apprentissage et part classification. Vérifi
 | Confundo | 3 | Rend la cible confus et embrouillé. | Sort |
 | Pétarade | 3 | Invoque des pétards magiques. Cela peut être utilisé pour blessé votre oposant en cas de duel, mais l'explosion a des chances de blesser l'invocateur. | Sort |
 | Dissendium | 3 | Ouvre des passages. Ouvre des choses en général. | Sort |
+| Draconifors | 3 | Transforme la cible en petit dragon. | Métamorphose |
+| Sort d'assèchement | 3 | Assèche les flaques d'eau et les marais. | Charme |
+| Léger comme une plume | 3 | Rend un objet léger comme des plumes. | Charme |
+| Fumos | 3 | Fait apparaître un écran de fumée défensif pour se dissimuler. | Charme |
+| Glacius | 3 | Fait apparaître un vent glacial qui glace la cible. | Charme |
+| Herbifors | 3 | Fait apparaître des fleurs qui bourgeonnent sur la victime. | Métamorphose |
+| Impervius | 3 | Repousse l'eau et le brouillard. | Charme |
+| Inflatus | 3 | Rempli la cible d'air. | Charme |
+| Lapifors | 3 | Transforme la cible en lapin. | Métamorphose |
+| Reparifors | 3 | Annule les effets magiques d'aliments tels que la paralysie et l'empoisonnement. | Métamorphose |
+| Riddikulus | 3 | Sort utilisé pour combattre un épouventard. Ce sort force l'épouventard à prendre l'apparence d'un objet de l'esprit du magicien. | Charme |
+| Sonorus | 3 | Rend la cible plus bruyante. Le contre-sort est Quietus. | Charme |
+| Sortilèges de grandisseur de queue | 3 | Fais pousser une queue à la cible. | Charme |
+| Waddiwasi | 3 | Utilisé pour lancer de petite, léger de l'objet souhaité par le magicien sur la cible. | Charme |
+
+| Ascendio | 4 | Soulève le magicien haut dans les airs. Ce charme fonctionne également sous l'eau pour le propulser au delà de la surface. | Charme |
+| Brackium Emendo | 4 | Utilisé correctement ce sort peut reparer les os cassés. | Charme, Soins |
+| Sort de bulles | 4 | Produit un flux de bulles non blessantes. Il existe deux sorts similaires. | Charme |
+| Malédiction de confonctivitus | 4 | Provoque une irritation des yeux, qui les forcent à se fermer. | Malédiction |
+| Depulso | 4 | Repousse la cible du magicien. | Charme |
+| Diffindo | 4 | Utilisé pour découper précisémment ou déchirer un objet. | Charme |
+| Diminuendo | 4 | Force la cible à rapetisser. | Charme |
+| Ducklifors | 4 | Transforme le cible en canard. | Métamorphose |
+| Amplificatum | 4 | Force la cible à augmenter sa taille. | Charme |
+| Finestra | 4 | Brise du verre. | Charme |
+| Furnunculus | 4 | Couvre la cible de furoncles (ou de boutons). | Sortilège |
+| Herbivicus | 4 | Fait pousser rapidement des plantes. | Charme |
+| Air chaud | 4 | Invoque un flux d'air brulant. | Charme |
+| Impedimenta | 4 | Ralenti ou stoppe une cible. | Sortilèges |
+| Multicorfors | 4 | Multicofors est un sort utilisé pour changer la couleur et le style d'un vêtement. | Métamorphose |
+| Sortilèges d'haleine de poney | 4 | Donne à la victime une très mauvaise haleine. | Sortilège |
+| Périculum | 4 | Produit une explosion de étincelles rouges. | Charme |
+| Piscifors | 4 | Transforme des objets en poisson. | Métamorphose |
+| Protego | 4 | Bouclier invisible qui renvoie les sorts et bloque les entités physiques. | Charme |
+| Reducto | 4 | Casse des objets. Dans des usages plus fort, les déintègre. | Charme |
+| Relashio | 4 | Force la cible à lâcher ce qu'elle tient. | Ensorcellement |
+| Récurvite | 4 | Néttoie des objets. | Charme |
+| Sort d'inversion | 4 | Intervertie deux cibles simultanément. | Métamorphose |
+| Sort de résistance | 4 | Rend un objet incassable. | Charme |
+| Ventus | 4 | Lance une puissante tornade du bout de la baguette. | Ensorcellement |
+| Vermiculus | 4 | Transforme des choses en vers. | Métamorphose |
+
+| Anteoculatia | 5 | Fait pousser une ramure sur la cible. | Sortilège |
+| Sort d'anti-intrusion | 5 | Empêche les intrus d'entree dans une zone. | Ensorcellement |
+| Cantis | 5 | Fait pousser la chansonette à la cible. | Ensorcellement |
+| Chaudron en blaireau | 5 | Transforme un chaudron en blaireau. | Métamorphose |
+| Cistem Aperio | 5 | Ouvre les coffres et les boites. | Charme |
+| Colloportus | 5 | Vérouille les portes, et prétenduement tout ce qui peut être fermé. On ne peut pas savoir si le contre sort ou une clé peut l'ouvrir. | Charme |
+| Colovaria | 5 | Change la couleur de la cible. | Charme |
+| PeaurnFlakes | 5 | Donne à la peau de la cible la texture de cornflakes. | Malédiction |
+| Crinus Muto | 5 | Utilisé pour métamorphoser la couleur et le style de cheveux. | Métamorphose |
+| Deletrius | 5 | Countre charme du sort d'invertion. | Charme |
